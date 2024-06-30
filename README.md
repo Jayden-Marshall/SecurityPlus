@@ -58,6 +58,6 @@ Completed the CompTIA Security+ 601 program, gaining expertise in cybersecurity 
 - **Incident Response and Digital Forensics**: Experience in using incident response plans, business continuity plans, and digital forensics techniques.
 - **Governance, Risk, and Compliance**: Knowledge of security policies, risk management processes, and compliance frameworks like PCI-DSS and GDPR.
 
-## Proof of Completion
+<h1>Proof of <a href="https://www.credly.com/badges/39ad2141-8499-4ef7-96ce-7784db86dc1f/public_url">Completion</a> </h1>
 
 <img src="https://github.com/Jayden-Marshall/Sec-GCSP/assets/145166234/031a65db-9de2-4280-b703-c7d72df98c98" height="80%" width="80%" alt="Certification"/>
