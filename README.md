@@ -4,7 +4,7 @@ Welcome to the CompTIA Security+ 601 study notes repository. This repository con
 
 ## Table of Contents
 
-1. [Attacks, Threats, and Vulnerabilities](Topics/1.0 Threats, Attacks and Vulnerabilities)
+1. [Attacks, Threats, and Vulnerabilities](Topics/1.0 Threats, Attacks and Vulnerabilities.md)
 2. [Architecture and Design](Topics/2.0_Architecture_Design.md)
 3. [Implementation](Topics/3.0_Implementation.md)
 4. [Operations and Incident Response](Topics/4.0_Operations_Incident_Response.md)
