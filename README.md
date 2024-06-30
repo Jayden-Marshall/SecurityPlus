@@ -15,13 +15,13 @@ Welcome to the CompTIA Security+ 601 study notes repository. This repository con
 
 ## Resources
 
-- [Books](Resources/Books.md)
-- [Websites](Resources/Websites.md)
-- [Practice Exams](Resources/Practice_Exams.md)
+- [Books](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Books)
+- [Websites](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Websites)
+- [Practice Exams](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Google%20Drive%20File)
 
 ## Glossary
 
-- [Glossary of Terms](Glossary.md)
+- [Glossary of Terms](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Glossary)
 
 ## Author
 
