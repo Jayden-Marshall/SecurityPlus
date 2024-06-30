@@ -4,11 +4,11 @@ Welcome to the CompTIA Security+ 601 study notes repository. This repository con
 
 ## Table of Contents
 
-1. [Attacks, Threats, and Vulnerabilities](Topics/1.0 Threats, Attacks and Vulnerabilities.md)
-2. [Architecture and Design](Topics/2.0_Architecture_Design.md)
-3. [Implementation](Topics/3.0_Implementation.md)
-4. [Operations and Incident Response](Topics/4.0_Operations_Incident_Response.md)
-5. [Governance, Risk, and Compliance](Topics/5.0_Governance_Risk_Compliance.md)
+1. [Attacks, Threats, and Vulnerabilities](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Topics/1.0%20Threats%2C%20Attacks%20and%20Vulnerabilities)
+2. [Architecture and Design](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Topics/2.0%20Architecture%20and%20Design)
+3. [Implementation](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Topics/3.0%20Implementation)
+4. [Operations and Incident Response](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Topics/4.0%20Operation%20and%20Incident%20Response)
+5. [Governance, Risk, and Compliance](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Topics/5.0%20Governance%2C%20Risk%2C%20and%20Compliance)
 6. [Resources](#resources)
 7. [Glossary](Glossary.md)
 8. [Author](#author)
