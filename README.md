@@ -10,8 +10,8 @@ Welcome to the CompTIA Security+ 601 study notes repository. This repository con
 4. [Operations and Incident Response](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Topics/4.0%20Operation%20and%20Incident%20Response)
 5. [Governance, Risk, and Compliance](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Topics/5.0%20Governance%2C%20Risk%2C%20and%20Compliance)
 6. [Resources](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Google%20Drive%20File)
-7. [Glossary](Glossary.md)
-8. [Author](#author)
+7. [Glossary](https://github.com/Jayden-Marshall/SecurityPlus/blob/main/Glossary)
+8. [Author](https://github.com/Jayden-Marshall)
 
 ## Resources
 
