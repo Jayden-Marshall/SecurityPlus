@@ -60,4 +60,4 @@ Completed the CompTIA Security+ 601 program, gaining expertise in cybersecurity 
 
 ## Proof of Completion
 
-<img src="https://github.com/user-attachments/files/16043311/CompTIA.Security%2B.ce.certificate.pdf" height="80%" width="80%" alt="Certification"/>
+<img src="https://github.com/Jayden-Marshall/Sec-GCSP/assets/145166234/031a65db-9de2-4280-b703-c7d72df98c98" height="80%" width="80%" alt="Certification"/>
